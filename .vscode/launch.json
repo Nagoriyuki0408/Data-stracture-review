@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/vecode repo/data stracture",
-      "program": "f:/vecode repo/data stracture/build/Debug/outDebug",
+      "cwd": "f:/vecode repo/data stracture/SimpleLinkList",
+      "program": "f:/vecode repo/data stracture/SimpleLinkList/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
