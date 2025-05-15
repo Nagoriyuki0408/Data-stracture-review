@@ -126,10 +126,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or suggestions, feel free to open an issue or contact the repository owner.
 
----
 
-*Happy coding!*
-
-```
 
 
