@@ -1,11 +1,7 @@
 
-
-```markdown
 # 📚 Data Structure Review
 
 > 🧠 A curated collection of C++ implementations for fundamental data structures, designed to reinforce understanding and provide practical examples.
-
----
 
 ## 🧰 Project Overview
 
@@ -15,16 +11,12 @@ This repository serves as a comprehensive review of essential data structures im
 ## 📂 Directory Structure
 
 ```
-
 Data-stracture-review/
 ├── .vscode/                 # VSCode configuration files
 ├── LinearList/              # Implementations of linear lists
 ├── SimpleLinkList/          # Implementations of singly linked lists
 ├── SimpleCircLinkList/      # Implementations of circular linked lists
 └── README.md                # Project documentation
-
-````
-
 ---
 
 ## 🧩 Implemented Data Structures
