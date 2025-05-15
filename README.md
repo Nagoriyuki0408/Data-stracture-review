@@ -17,7 +17,7 @@ Data-stracture-review/
 ├── SimpleLinkList/          # Implementations of singly linked lists
 ├── SimpleCircLinkList/      # Implementations of circular linked lists
 └── README.md                # Project documentation
----
+```
 
 ## 🧩 Implemented Data Structures
 
@@ -58,9 +58,9 @@ Data-stracture-review/
 
 1. Navigate to the desired directory:
 
-
+   ```bash
    cd LinearList
-
+   ```
 
 2. Compile the C++ source file:
 
