@@ -58,9 +58,9 @@ Data-stracture-review/
 
 1. Navigate to the desired directory:
 
-   ```bash
+
    cd LinearList
-   ```
+
 
 2. Compile the C++ source file:
 
