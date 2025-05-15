@@ -60,7 +60,7 @@ Data-stracture-review/
 
    ```bash
    cd LinearList
-````
+   ```
 
 2. Compile the C++ source file:
 
